@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
-      hello nextjs
+      hello nextjs 33
     </div>
   )
 }
